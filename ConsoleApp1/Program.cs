@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Participantes
+namespace ConsoleApp1
 {
     internal class Program
     {
@@ -12,8 +12,12 @@ namespace Participantes
         {
             
             
-            Console.WriteLine("Estudiantes de la Clase NRC - 6414");
-            Console.WriteLine("N00362578");
+            
+            
+            
+            Console.WriteLine("estudiantes de la clase NRC - 6414");
+            Console.WriteLine("N00389906");
+
         }
     }
 }

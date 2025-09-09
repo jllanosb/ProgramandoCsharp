@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Participantes
+namespace PARTICIPANTES
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
-            
-            Console.WriteLine("Estudiantes de la Clase NRC - 6414");
-            Console.WriteLine("N00362578");
+            Console.WriteLine("ESTUDIANTES DE LA CLASE NR614");
+            Console.WriteLine("N00468999");
+
+
         }
     }
 }
