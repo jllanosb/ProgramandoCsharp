@@ -26,8 +26,9 @@ namespace PracticaS3
             Console.WriteLine("ingrese su edad: ");
             var edad= int.Parse(Console.ReadLine());
             if (edad >= 18)
+            {
                 Console.WriteLine("ingresas al cine");
-
+            }
             Console.ReadKey();
 
         }
